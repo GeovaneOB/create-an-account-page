@@ -117,24 +117,6 @@ body {
   width: 100%;
 }
 
-.detail1 {
-  position: absolute;
-  width: 110px;
-  height: 1px;
-  background-color: #807E8C;
-  right: 495px;
-  bottom: 190px;
-}
-
-.detail2 {
-  position: absolute;
-  width: 110px;
-  height: 1px;
-  background-color: #807E8C;
-  left: 900px;
-  bottom: 190px;
-}
-
 .r-alt {
   position: relative;
   margin: 0;
